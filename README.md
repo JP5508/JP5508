@@ -1,4 +1,6 @@
-## Oi, Eu sou o João Pedro ._.
+` git init `
+
+## print("Oi, Eu sou o João Pedro ._.")
 
 - Tenho 17 anos
 - Pronomes: Ele/Dele
@@ -7,8 +9,7 @@
 - (Desenvolvimento de Sistemas na ETEC: Jardim Angela)
 - Foco: Front-end (HTML, CSS/BOOTSTRAP)
 - Email para contato: contato.jp5508@gmail.com
-- Outros conhecimentos:
-  --
+## Outros conhecimentos:
 - SOFTWARES:
   - Unreal Engine 5 | Superficial
   - Unity | Aprendendo
@@ -20,3 +21,14 @@
   - Teclado | Intermediário
   - Violão | Intermediário
   - Guitarra | Aprendendo
+
+(mas sempre aprendendo e aperfeiçoando)
+
+<!-- Parabéns! Você achou me easter-egg: -->
+<!-- https://www.youtube.com/@LINK._.4178 -->
+
+` git add . `
+
+` git commit -m "volte sempre" `
+
+` git push origin main `
