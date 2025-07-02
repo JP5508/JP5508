@@ -4,5 +4,19 @@
 - Pronomes: Ele/Dele
 - Atualmente NÃO estou trabalhando
 - Estou cursando o Ensino Médio com Técnico integral em DS
+- (Desenvolvimento de Sistemas na ETEC: Jardim Angela)
+- Foco: Front-end (HTML, CSS/BOOTSTRAP)
 - Email para contato: contato.jp5508@gmail.com
-- Outras informações: Eu sei um pouco sobre: UNREAL ENGINE 5, UNITY, BLENDER e PIXEL ART
+- Outros conhecimentos:
+  --
+- SOFTWARES:
+  - Unreal Engine 5 | Superficial
+  - Unity | Aprendendo
+  - Blender | Superficial
+  - Adobe Premiere | Intermediário
+  - Adobe After Affects | Superficial
+  - Adobe Lightroom | Superficial
+- INSTRUMENTOS:
+  - Teclado | Intermediário
+  - Violão | Intermediário
+  - Guitarra | Aprendendo
