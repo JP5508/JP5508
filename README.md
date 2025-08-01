@@ -24,7 +24,7 @@
 
 (mas sempre aprendendo e aperfeiçoando)
 
-<!-- Parabéns! Você achou me easter-egg: -->
+<!-- Parabéns! Você achou meu easter-egg: -->
 <!-- https://www.youtube.com/@LINK._.4178 -->
 
 ` git add . `
