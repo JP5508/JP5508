@@ -7,20 +7,21 @@
 - Atualmente NÃO estou trabalhando
 - Estou cursando o Ensino Médio com Técnico integral em DS
 - (Desenvolvimento de Sistemas na ETEC: Jardim Angela)
-- Foco: Front-end (HTML, CSS)
+- HTML, CSS, SQL, PHP, JavaScript
 - Email para contato: contato.jp5508@gmail.com
 ## Outros conhecimentos:
 - SOFTWARES:
   - Unreal Engine 5 | Superficial
   - Unity | Aprendendo
+  - blender | Aprendendo
   - Blender | Superficial
   - Adobe Premiere | Intermediário
   - Adobe After Affects | Superficial
   - Adobe Lightroom | Superficial
 - INSTRUMENTOS:
-  - Teclado | ...
-  - Violão | ...
-  - Guitarra | ...
+  - Teclado | Aprendendo
+  - Violão | Aprendendo
+  - Guitarra | Aprendendo
 
 (mas sempre aprendendo e aperfeiçoando)
 
