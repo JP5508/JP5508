@@ -10,10 +10,11 @@
 - HTML, CSS, SQL, PHP, JavaScript
 - Email para contato: contato.jp5508@gmail.com
 ## Outros conhecimentos:
+- CURSOS:
+  - Unreal Engine Masters / Hotmart (NOV DE 2025)
 - SOFTWARES:
   - Unreal Engine 5 | Superficial
   - Unity | Aprendendo
-  - blender | Aprendendo
   - Blender | Superficial
   - Adobe Premiere | Intermediário
   - Adobe After Affects | Superficial
