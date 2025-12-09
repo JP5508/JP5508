@@ -5,8 +5,8 @@
 - Tenho 17 anos
 - Pronomes: Ele/Dele
 - Atualmente NÃO estou trabalhando
-- Estou cursando o Ensino Médio com Técnico integral em DS
-- (Desenvolvimento de Sistemas na ETEC: Jardim Angela)
+- Cursei o Ensino Médio com Técnico integral em DS
+- (Desenvolvimento de Sistemas na ETEC: Jardim Angela, 2023 - 2025)
 - HTML, CSS, SQL, PHP, JavaScript
 - Email para contato: contato.jp5508@gmail.com
 ## Outros conhecimentos:
@@ -14,15 +14,15 @@
   - Unreal Engine Masters / Hotmart (NOV DE 2025)
 - SOFTWARES:
   - Unreal Engine 5 | Superficial
-  - Unity | Aprendendo
   - Blender | Superficial
-  - Adobe Premiere | Intermediário
+  - Adobe Premiere | Superficial
   - Adobe After Affects | Superficial
-  - Adobe Lightroom | Superficial
 - INSTRUMENTOS:
   - Teclado | Aprendendo
   - Violão | Aprendendo
   - Guitarra | Aprendendo
+  - Bateria | Em breve
+  - Baixo | Em breve
 
 (mas sempre aprendendo e aperfeiçoando)
 
