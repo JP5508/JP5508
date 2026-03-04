@@ -7,24 +7,26 @@
 - Atualmente NÃO estou trabalhando
 - Cursei o Ensino Médio com Técnico integral em DS
 - (Desenvolvimento de Sistemas na ETEC: Jardim Angela, 2023 - 2025)
-- HTML, CSS, SQL, PHP, JavaScript
+- Cursando: Bacharelado em Engenharia da computação 2026-2030
+- (Centro Universitário Senac - Santo Amaro)
 - Email para contato: contato.jp5508@gmail.com
+
 ## Outros conhecimentos:
+
 - CURSOS:
   - Unreal Engine Masters / Hotmart (NOV DE 2025)
 - SOFTWARES:
   - Unreal Engine 5 | Superficial
+  - Unity | Aprendendo
   - Blender | Superficial
   - Adobe Premiere | Superficial
-  - Adobe After Affects | Superficial
+  - Adobe After Affects | Aprendendo
 - INSTRUMENTOS:
-  - Teclado | Aprendendo
-  - Violão | Aprendendo
-  - Guitarra | Aprendendo
+  - Teclado | Intermediário
+  - Violão | Intermediário
+  - Guitarra | Intermediário (aprendendo)
   - Bateria | Em breve
   - Baixo | Em breve
-
-(mas sempre aprendendo e aperfeiçoando)
 
 <!-- Parabéns! Você achou meu easter-egg: -->
 <!-- https://www.youtube.com/@LINK._.4178 -->
