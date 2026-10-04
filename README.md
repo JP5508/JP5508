@@ -4,6 +4,7 @@
 
 - Tenho 18 anos
 - Pronomes: Ele/Dele
+- Anti-IA | Pró-Arte
 - Atualmente procurando por estágio | [Linkedin](www.linkedin.com/in/jp5508)
 - Desenvolvedor Full Stack | HTML, CSS, PHP, SQL, JavaScript | Git, Github
 - Cursei o Ensino Médio com Técnico integral em DS
